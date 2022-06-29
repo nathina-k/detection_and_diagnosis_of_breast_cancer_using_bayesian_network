@@ -1,1 +1,1 @@
-# detection_and_diagnosis_of_breast_cancer_using_bn
+# Detection and Diagnosis of Breast Cancer Using BN
