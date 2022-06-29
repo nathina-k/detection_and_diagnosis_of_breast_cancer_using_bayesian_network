@@ -1,1 +1,1 @@
-# Detection and Diagnosis of Breast Cancer Using BN
+# Detection and Diagnosis of Breast Cancer Using Bayesian Network
